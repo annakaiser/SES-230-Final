@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[27]:
-
 
 #simulate a ping pong match with the question of "what is the avg amount of times the ball goes back and forth
 #before someone loses the round
